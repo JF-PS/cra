@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@dots.cool/design-system/*": ["../../packages/design-system/src/*"],
+      "@dots.cool/*": ["../../packages/*/src"]
+    }
+  }
+}
