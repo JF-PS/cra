@@ -5,7 +5,7 @@ export const App = () => (
   <Box>
     <Button
       onClick={() => {
-        alert("click");
+        alert("Connect the doooooooots !!!");
       }}
     >
       Test
