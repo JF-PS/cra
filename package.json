@@ -1,10 +1,10 @@
 {
-  "name": "@dots.cool/test",
+  "name": "@dots.cool/cra",
   "description": "",
   "private": true,
   "version": "1.0.0",
   "dependencies": {
-    "@dots.cool/design-system": "*",
+    "@dots.cool/dots-package-components": "*",
     "react": "~17.0.0",
     "react-dom": "~17.0.0"
   },

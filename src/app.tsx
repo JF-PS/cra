@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button } from "@dots.cool/design-system";
+import { Box, Button } from "@dots.cool/dots-package-components";
 
 export const App = () => (
   <Box>
